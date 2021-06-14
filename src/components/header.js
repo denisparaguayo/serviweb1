@@ -30,24 +30,7 @@ const Header = () => (
                     }
                 `}
             >
-                <Link
-                to="/"
-                style={{
-                  color: `white`,
-                  textDecoration: `none`,                  
-                }}
-                >
-                <StaticImage
-                src="../images/serviwebSample.png"
-                width={250}
-                quality={95}
-                formats={["AUTO", "WEBP", "AVIF"]}
-                alt="A Gatsby astronaut"
-                style={{ marginBottom: `1.45rem` }}
                 
-                
-                />
-                </Link>
                 
                
             </div>
