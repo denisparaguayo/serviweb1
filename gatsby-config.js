@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `ServiWeb`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `En Paraguay, te entregamos Sitios Web y Paginas Web completas, con hosting y dominio incluido, listas para Posicionamiento en Google y Posicionamiento Web.`,
+    author: `Servi Web Paraguay`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -23,8 +23,8 @@ module.exports = {
         name: `gatsby-starter-default`,
         short_name: `starter`,
         start_url: `/`,
-        background_color: `#3e0668`,
-        theme_color: `#3e0668`,
+        background_color: `#333`,
+        theme_color: `#333`,
         display: `minimal-ui`,
         icon: `src/images/icon-denis.png`, // This path is relative to the root of the site.
       },
