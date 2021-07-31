@@ -129,7 +129,7 @@ const IndexPage = () => (
                 <p>
                   Especial para corporaciones y medianas empresas que requieren
                   funcionalidades avanzadas y estructuras únicas, y un diseño
-                  robusto por la naturaleza de su negocio.
+                  robusto por la naturaleza de su negocio
                 </p>
               </div>
             </article>
